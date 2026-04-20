@@ -1,0 +1,14 @@
+# Credentials and environment variables
+.env
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Local files
+scraped_products.json
+url_slugs.csv
+test_network.js
+
+# OS files
+.DS_Store
